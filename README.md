@@ -1,2 +1,2 @@
-# website.codsoft
-responsive website using HTML , CSS and Bootstrap framworks
+#ecommerce-fitnessfreak
+responsive ecommerce website using HTML , CSS , javaScript and Bootstrap 
